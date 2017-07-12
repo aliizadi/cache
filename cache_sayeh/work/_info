@@ -1,0 +1,963 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+Eaddresslogic
+Z0 w1491836250
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\ali izadi\Desktop\final_cache
+Z6 8C:/Users/ali izadi/Desktop/final_cache/address_logic.vhd
+Z7 FC:/Users/ali izadi/Desktop/final_cache/address_logic.vhd
+l0
+L7
+VJM1JL54OE6Wh::kFoo1k50
+Z8 OL;C;10.1c;51
+32
+Z9 !s108 1499707111.324000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/address_logic.vhd|
+Z11 !s107 C:/Users/ali izadi/Desktop/final_cache/address_logic.vhd|
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+!s100 a^lXn`hPc[ER^F4jY`Kd_0
+!i10b 1
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 12 addresslogic 0 22 JM1JL54OE6Wh::kFoo1k50
+32
+l27
+L15
+VWih1A:h3iYgJZD<;3LMF30
+R8
+R9
+R10
+R11
+R12
+R13
+!s100 931QTf_7MEmzO?Ld[`Q8]2
+!i10b 1
+Eaddressunit
+Z14 w1492367490
+R3
+R4
+R5
+Z15 8C:/Users/ali izadi/Desktop/final_cache/addressing_unit.vhd
+Z16 FC:/Users/ali izadi/Desktop/final_cache/addressing_unit.vhd
+l0
+L4
+V>Y`b2m?W:EdCSjF^CKjTF2
+R8
+32
+Z17 !s108 1499707111.551000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/addressing_unit.vhd|
+Z19 !s107 C:/Users/ali izadi/Desktop/final_cache/addressing_unit.vhd|
+R12
+R13
+!s100 g6`K8JAO<`iPSf=33YO`Z1
+!i10b 1
+Adataflow
+R3
+R4
+DEx4 work 11 addressunit 0 22 >Y`b2m?W:EdCSjF^CKjTF2
+32
+l33
+L13
+V4E2eRg]<L[z8D9^hnIQ5h2
+R8
+R17
+R18
+R19
+R12
+R13
+!s100 I^Vd^jGboJ]kSGzj<0on52
+!i10b 1
+Earithmeticunit
+Z20 w1492679962
+R1
+Z21 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+R3
+R4
+R5
+Z22 8C:/Users/ali izadi/Desktop/final_cache/arithmetic_unit.vhd
+Z23 FC:/Users/ali izadi/Desktop/final_cache/arithmetic_unit.vhd
+l0
+L6
+V0MmkZ32RThKh=5f4B<khW2
+R8
+32
+Z24 !s108 1499707111.752000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/arithmetic_unit.vhd|
+Z26 !s107 C:/Users/ali izadi/Desktop/final_cache/arithmetic_unit.vhd|
+R12
+R13
+!s100 a3DQT3HUN3OKjKcjjLg1d1
+!i10b 1
+Artl
+R1
+R21
+R3
+R4
+DEx4 work 14 arithmeticunit 0 22 0MmkZ32RThKh=5f4B<khW2
+32
+l38
+L16
+V?PmlaX?HOY81o7bj[J_<]0
+R8
+R24
+R25
+R26
+R12
+R13
+!s100 li6<G><[XIQAUiH`PQRoM1
+!i10b 1
+Ecache
+Z27 w1499702446
+Z28 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R3
+R4
+R5
+Z29 8C:/Users/ali izadi/Desktop/final_cache/cache.vhd
+Z30 FC:/Users/ali izadi/Desktop/final_cache/cache.vhd
+l0
+L5
+VIJeIGAeF84^MB9kR2=:XW1
+R8
+32
+Z31 !s108 1499707109.535000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/cache.vhd|
+Z33 !s107 C:/Users/ali izadi/Desktop/final_cache/cache.vhd|
+R12
+R13
+!s100 ;Q<M6b0`kmd6<XehBVBB93
+!i10b 1
+Abehavioral
+R28
+R3
+R4
+DEx4 work 5 cache 0 22 IJeIGAeF84^MB9kR2=:XW1
+32
+l93
+L14
+VaT[l^;`e6ZiaaeH=`V2iA0
+R8
+R31
+R32
+R33
+R12
+R13
+!s100 MCI`:TJNbL1_EcG`d1ACC2
+!i10b 1
+Econtroller
+Z34 w1499707178
+R3
+R4
+R5
+Z35 8C:/Users/ali izadi/Desktop/final_cache/controller.vhd
+Z36 FC:/Users/ali izadi/Desktop/final_cache/controller.vhd
+l0
+L4
+Ve=hCY8`d5fF<4`GhEe?GN2
+R8
+32
+Z37 !s108 1499707183.448000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/controller.vhd|
+Z39 !s107 C:/Users/ali izadi/Desktop/final_cache/controller.vhd|
+R12
+R13
+!s100 40kb<R;HlWKaLVeP`F_:50
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 10 controller 0 22 e=hCY8`d5fF<4`GhEe?GN2
+32
+l71
+L22
+V^CDmUme^bNFk_Ag0`WP4B2
+R8
+R37
+R38
+R39
+R12
+R13
+!s100 h;ZV>5loOZ1jMQ<N]`I991
+!i10b 1
+Edataarray
+Z40 w1497822481
+R28
+R3
+R4
+R5
+Z41 8C:/Users/ali izadi/Desktop/final_cache/data_array.vhd
+Z42 FC:/Users/ali izadi/Desktop/final_cache/data_array.vhd
+l0
+L5
+VA4>0JoEkR7R=DZV9UKdBL0
+R8
+32
+Z43 !s108 1499707109.791000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/data_array.vhd|
+Z45 !s107 C:/Users/ali izadi/Desktop/final_cache/data_array.vhd|
+R12
+R13
+!s100 __H9Sh9C75EkcVi0h`Fb=1
+!i10b 1
+Abehavioral
+R28
+R3
+R4
+DEx4 work 9 dataarray 0 22 A4>0JoEkR7R=DZV9UKdBL0
+32
+l18
+L13
+VCFlWO]MBjFg:]B9@j=DG32
+R8
+R43
+R44
+R45
+R12
+R13
+!s100 :R^nj<M99O<939?L?2a>b2
+!i10b 1
+Edatapath
+Z46 w1492636568
+R3
+R4
+R5
+Z47 8C:/Users/ali izadi/Desktop/final_cache/data_path.vhd
+Z48 FC:/Users/ali izadi/Desktop/final_cache/data_path.vhd
+l0
+L4
+VU>n2_zzlnQV15?b9WG_L;2
+R8
+32
+Z49 !s108 1499707113.660000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/data_path.vhd|
+Z51 !s107 C:/Users/ali izadi/Desktop/final_cache/data_path.vhd|
+R12
+R13
+!s100 ?gz_TRBL<QH9YbHRVXO`V2
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 8 datapath 0 22 U>n2_zzlnQV15?b9WG_L;2
+32
+l88
+L22
+Vh1fWAg05RNiokNKmmE`P[1
+R8
+R49
+R50
+R51
+R12
+R13
+!s100 hQd]PYG]S5M_E9J54_=^H3
+!i10b 1
+Edivider
+Z52 w1492687282
+R28
+R1
+R2
+R3
+R4
+R5
+Z53 8C:/Users/ali izadi/Desktop/final_cache/divider.vhd
+Z54 FC:/Users/ali izadi/Desktop/final_cache/divider.vhd
+l0
+L8
+V>cg]X=fil>0[QV2faZ1mU2
+R8
+32
+Z55 !s108 1499707113.886000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/divider.vhd|
+Z57 !s107 C:/Users/ali izadi/Desktop/final_cache/divider.vhd|
+R12
+R13
+!s100 aJAlgbWF<@<m4LYI[n<mG0
+!i10b 1
+Abehavioral
+R28
+R1
+R2
+R3
+R4
+DEx4 work 7 divider 0 22 >cg]X=fil>0[QV2faZ1mU2
+l18
+L15
+Vo`K>]>Pd;XE=I=>`fj6^Q1
+R8
+32
+R55
+R56
+R57
+R12
+R13
+!s100 _SZIf612B[Im7k4k@aiGz1
+!i10b 1
+Einstructionregister
+Z58 w1492536826
+R3
+R4
+R5
+Z59 8C:/Users/ali izadi/Desktop/final_cache/instruction_register.vhd
+Z60 FC:/Users/ali izadi/Desktop/final_cache/instruction_register.vhd
+l0
+L4
+V6?STi4DJjRNB<D?J:`Khh0
+R8
+32
+Z61 !s108 1499707114.153000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/instruction_register.vhd|
+Z63 !s107 C:/Users/ali izadi/Desktop/final_cache/instruction_register.vhd|
+R12
+R13
+!s100 oWDco4CmK21J6W>57`CoQ1
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 19 instructionregister 0 22 6?STi4DJjRNB<D?J:`Khh0
+32
+l13
+L11
+Ve<HZJ]3UDGZS_N=mb:dKj1
+R8
+R61
+R62
+R63
+R12
+R13
+!s100 ;[EAVeMe512ofe?lQ:K8S1
+!i10b 1
+Emain
+Z64 w1499707103
+R3
+R4
+R5
+Z65 8C:/Users/ali izadi/Desktop/final_cache/main.vhd
+Z66 FC:/Users/ali izadi/Desktop/final_cache/main.vhd
+l0
+L4
+VWLK[XBmEDKDW97`MD4JJ@3
+R8
+32
+Z67 !s108 1499707114.386000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/main.vhd|
+Z69 !s107 C:/Users/ali izadi/Desktop/final_cache/main.vhd|
+R12
+R13
+!s100 h`lITzHG:0]_D_6Va<O5=1
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 4 main 0 22 WLK[XBmEDKDW97`MD4JJ@3
+32
+l56
+L10
+Ve>2m_Ye@J@Pc[8Z;MVzh32
+R8
+R67
+R68
+R69
+R12
+R13
+!s100 <Q<C[[c[6_2eN@QN5]14V3
+!i10b 1
+Emaintb
+Z70 w1492759816
+R3
+R4
+R5
+Z71 8C:/Users/ali izadi/Desktop/final_cache/main_tb.vhd
+Z72 FC:/Users/ali izadi/Desktop/final_cache/main_tb.vhd
+l0
+L4
+VlCL4V<H4nWfUz[KXTZ]K90
+R8
+32
+Z73 !s108 1499707114.643000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/main_tb.vhd|
+Z75 !s107 C:/Users/ali izadi/Desktop/final_cache/main_tb.vhd|
+R12
+R13
+!s100 O1FBUObj^O]X^:`420[iA0
+!i10b 1
+Atestbench
+R3
+R4
+DEx4 work 6 maintb 0 22 lCL4V<H4nWfUz[KXTZ]K90
+32
+l19
+L7
+Vo^2[:h8;5<>`i=A=cjXl83
+R8
+R73
+R74
+R75
+R12
+R13
+!s100 >[_F=7fKzWb]]_6<=4_lH3
+!i10b 1
+Ememory
+Z76 w1499689153
+R28
+R3
+R4
+R5
+Z77 8C:/Users/ali izadi/Desktop/final_cache/memory.vhd
+Z78 FC:/Users/ali izadi/Desktop/final_cache/memory.vhd
+l0
+L5
+V08N=^bOSbJNIZohTQ^N8V2
+R8
+32
+Z79 !s108 1499707110.118000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/memory.vhd|
+Z81 !s107 C:/Users/ali izadi/Desktop/final_cache/memory.vhd|
+R12
+R13
+!s100 LA[kGcC7gQJn8SINDEb4n1
+!i10b 1
+Abehavioral
+R28
+R3
+R4
+DEx4 work 6 memory 0 22 08N=^bOSbJNIZohTQ^N8V2
+32
+l17
+L15
+V3c?1LVgg`P@3_ke>3kCJ73
+R8
+R79
+R80
+R81
+R12
+R13
+!s100 6?F;hmdZP3SR[1hS7Ra8V1
+!i10b 1
+Emisshitlogic
+Z82 w1497953006
+R28
+R3
+R4
+R5
+Z83 8C:/Users/ali izadi/Desktop/final_cache/miss_hit_logic.vhd
+Z84 FC:/Users/ali izadi/Desktop/final_cache/miss_hit_logic.vhd
+l0
+L5
+VNcNg3jlhP^[MbC<n?P4_W2
+R8
+32
+Z85 !s108 1499707110.352000
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/miss_hit_logic.vhd|
+Z87 !s107 C:/Users/ali izadi/Desktop/final_cache/miss_hit_logic.vhd|
+R12
+R13
+!s100 d]MTef7WEl0UYF]JdCWK92
+!i10b 1
+Agate_level
+R28
+R3
+R4
+DEx4 work 12 misshitlogic 0 22 NcNg3jlhP^[MbC<n?P4_W2
+32
+l20
+L15
+VG@Gz5GBYKAdj4J8EgTicS0
+R8
+R85
+R86
+R87
+R12
+R13
+!s100 SIjKDL`l`I7Dha0[:o2FD2
+!i10b 1
+Emru_array
+Z88 w1499697953
+R28
+R3
+R4
+R5
+Z89 8C:/Users/ali izadi/Desktop/final_cache/most_recently_used_array.vhd
+Z90 FC:/Users/ali izadi/Desktop/final_cache/most_recently_used_array.vhd
+l0
+L5
+Vm=aiGzIEI1=zd96JCSYNd0
+R8
+32
+Z91 !s108 1499707110.541000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/most_recently_used_array.vhd|
+Z93 !s107 C:/Users/ali izadi/Desktop/final_cache/most_recently_used_array.vhd|
+R12
+R13
+!s100 YTHH_j4C3icN3O2S><ZYf0
+!i10b 1
+Abehavorial
+R28
+R3
+R4
+DEx4 work 9 mru_array 0 22 m=aiGzIEI1=zd96JCSYNd0
+32
+l21
+L14
+Vj^lRdGA55ReV^e>Z>CDd=0
+R8
+R91
+R92
+R93
+R12
+R13
+!s100 OD658KZf_5feeV8X93Ul:1
+!i10b 1
+Emultiplier
+Z94 w1492686980
+R1
+R21
+R3
+R4
+R5
+Z95 8C:/Users/ali izadi/Desktop/final_cache/multiplier.vhd
+Z96 FC:/Users/ali izadi/Desktop/final_cache/multiplier.vhd
+l0
+L6
+VG3iLBDZ:[bMN=51B@T;;02
+R8
+32
+Z97 !s108 1499707114.874000
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/multiplier.vhd|
+Z99 !s107 C:/Users/ali izadi/Desktop/final_cache/multiplier.vhd|
+R12
+R13
+!s100 h`384a0dDlM56nAm075NZ1
+!i10b 1
+Abehavioral
+R1
+R21
+R3
+R4
+DEx4 work 10 multiplier 0 22 G3iLBDZ:[bMN=51B@T;;02
+l15
+L13
+V;c4VbQO@N3Um;XMekXT1^1
+R8
+32
+R97
+R98
+R99
+R12
+R13
+!s100 `^kdkREAhT=K4ZHi2o89X1
+!i10b 1
+Emux
+Z100 w1497952082
+R3
+R4
+R5
+Z101 8C:/Users/ali izadi/Desktop/final_cache/mux.vhd
+Z102 FC:/Users/ali izadi/Desktop/final_cache/mux.vhd
+l0
+L4
+Vb3X6=kAZ6JzgXB_K0iCmz2
+R8
+32
+Z103 !s108 1499707110.774000
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/mux.vhd|
+Z105 !s107 C:/Users/ali izadi/Desktop/final_cache/mux.vhd|
+R12
+R13
+!s100 ckOE@e[;OX`1k77?JD`482
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 3 mux 0 22 b3X6=kAZ6JzgXB_K0iCmz2
+32
+l13
+L12
+VTI8l?hb5T1EA?Az54Bo^c3
+R8
+R103
+R104
+R105
+R12
+R13
+!s100 8`9D^KRBE`FoB7dEF`m_92
+!i10b 1
+Eportmanager
+Z106 w1492758504
+R28
+R3
+R4
+R5
+Z107 8C:/Users/ali izadi/Desktop/final_cache/port_manager.vhd
+Z108 FC:/Users/ali izadi/Desktop/final_cache/port_manager.vhd
+l0
+L5
+V39U>AEooQXO=5X^SAie@Z2
+R8
+32
+Z109 !s108 1499707115.096000
+Z110 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/port_manager.vhd|
+Z111 !s107 C:/Users/ali izadi/Desktop/final_cache/port_manager.vhd|
+R12
+R13
+!s100 XcL4OCK`m];[iRlWmP9`20
+!i10b 1
+Abehavioral
+R28
+R3
+R4
+DEx4 work 11 portmanager 0 22 39U>AEooQXO=5X^SAie@Z2
+32
+l16
+L14
+VKCCAFBJ0Zc`OW8]cfP8HC3
+R8
+R109
+R110
+R111
+R12
+R13
+!s100 f:E@AYWN`[9lBZ3;jQNAB1
+!i10b 1
+Eprogramcounter
+Z112 w1492536846
+R3
+R4
+R5
+Z113 8C:/Users/ali izadi/Desktop/final_cache/program_counter.vhd
+Z114 FC:/Users/ali izadi/Desktop/final_cache/program_counter.vhd
+l0
+L4
+VAXVfIK>XIA56@996]>RU`1
+R8
+32
+Z115 !s108 1499707115.286000
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/program_counter.vhd|
+Z117 !s107 C:/Users/ali izadi/Desktop/final_cache/program_counter.vhd|
+R12
+R13
+!s100 U16[d8cnFPPOdo=a<6Ug[0
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 14 programcounter 0 22 AXVfIK>XIA56@996]>RU`1
+32
+l12
+L11
+V4d1CUD:E]PQe0W^mSOKkO1
+R8
+R115
+R116
+R117
+R12
+R13
+!s100 dRO<mXVhJb2efjF[SK9A93
+!i10b 1
+Eram
+Z118 w1499707153
+R28
+R3
+R4
+R5
+Z119 8C:/Users/ali izadi/Desktop/final_cache/ram.vhd
+Z120 FC:/Users/ali izadi/Desktop/final_cache/ram.vhd
+l0
+L5
+VVLfk8SbAA@N`2g?U>`LP@3
+R8
+32
+Z121 !s108 1499707156.999000
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/ram.vhd|
+Z123 !s107 C:/Users/ali izadi/Desktop/final_cache/ram.vhd|
+R12
+R13
+!s100 `_]D8ek]VE5z6QY9WIgl;0
+!i10b 1
+Artl
+R28
+R3
+R4
+DEx4 work 3 ram 0 22 VLfk8SbAA@N`2g?U>`LP@3
+32
+l54
+L14
+VOg>^E>Y2STP7V;8N^mDF90
+R8
+R121
+R122
+R123
+R12
+R13
+!s100 5`_UHd5?o<_>S]X4CcbLO2
+!i10b 1
+Eregisterfile
+Z124 w1492536850
+R28
+R1
+R2
+R3
+R4
+R5
+Z125 8C:/Users/ali izadi/Desktop/final_cache/register_file.vhd
+Z126 FC:/Users/ali izadi/Desktop/final_cache/register_file.vhd
+l0
+L6
+ViL^?M?3iUFbAbQ6a<Iafg3
+R8
+32
+Z127 !s108 1499707115.696000
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/register_file.vhd|
+Z129 !s107 C:/Users/ali izadi/Desktop/final_cache/register_file.vhd|
+R12
+R13
+!s100 LNFhbNJ8cWB;Q5bi9C9Y:0
+!i10b 1
+Artl
+R28
+R1
+R2
+R3
+R4
+DEx4 work 12 registerfile 0 22 iL^?M?3iUFbAbQ6a<Iafg3
+32
+l28
+L15
+V]Wki`<c_COTjHYkX9Rk9>1
+R8
+R127
+R128
+R129
+R12
+R13
+!s100 @KZ;;VI[>l;ZX5je]6BVd3
+!i10b 1
+Esayeh
+Z130 w1492627660
+R3
+R4
+R5
+Z131 8C:/Users/ali izadi/Desktop/final_cache/sayeh.vhd
+Z132 FC:/Users/ali izadi/Desktop/final_cache/sayeh.vhd
+l0
+L4
+Vd2=h;WY]l=Q@5OT4X^ON[1
+R8
+32
+Z133 !s108 1499707115.919000
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/sayeh.vhd|
+Z135 !s107 C:/Users/ali izadi/Desktop/final_cache/sayeh.vhd|
+R12
+R13
+!s100 CL0OZ_z^;Lee3U;@FPPz51
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 5 sayeh 0 22 d2=h;WY]l=Q@5OT4X^ON[1
+32
+l66
+L13
+VUh634NfEJDl<3H;MRBWjR1
+R8
+R133
+R134
+R135
+R12
+R13
+!s100 OWzoWz1j@ogOS3G_XX5Ph2
+!i10b 1
+Estatusregister
+Z136 w1492536860
+R3
+R4
+R5
+Z137 8C:/Users/ali izadi/Desktop/final_cache/status_register.vhd
+Z138 FC:/Users/ali izadi/Desktop/final_cache/status_register.vhd
+l0
+L4
+VZ<3^5@dTh?kf9T^]:Y08_2
+R8
+32
+Z139 !s108 1499707116.197000
+Z140 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/status_register.vhd|
+Z141 !s107 C:/Users/ali izadi/Desktop/final_cache/status_register.vhd|
+R12
+R13
+!s100 Goca=X8f[^Le:>V_XB53K1
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 14 statusregister 0 22 Z<3^5@dTh?kf9T^]:Y08_2
+32
+l14
+L12
+VN]TdG]=nUo^:DL^1DV=RI1
+R8
+R139
+R140
+R141
+R12
+R13
+!s100 Y7DB3oJ5z_2o5@;TH45Rc2
+!i10b 1
+Etagvalidarray
+Z142 w1499702437
+R28
+R3
+R4
+R5
+Z143 8C:/Users/ali izadi/Desktop/final_cache/tag_valid_array.vhd
+Z144 FC:/Users/ali izadi/Desktop/final_cache/tag_valid_array.vhd
+l0
+L5
+VN44?c:]TC6e>i<1_LAHUl2
+R8
+32
+Z145 !s108 1499707110.985000
+Z146 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/tag_valid_array.vhd|
+Z147 !s107 C:/Users/ali izadi/Desktop/final_cache/tag_valid_array.vhd|
+R12
+R13
+!s100 hS78ceT1XJ15e<8P@gEQZ3
+!i10b 1
+Abehavioral
+R28
+R3
+R4
+DEx4 work 13 tagvalidarray 0 22 N44?c:]TC6e>i<1_LAHUl2
+32
+l21
+L15
+V[4Ya0j^=?K0SCCoIj4kgL3
+R8
+R145
+R146
+R147
+R12
+R13
+!s100 e51bd^i]dOCkZ6lNQbRoW1
+!i10b 1
+Etwoscomplement
+Z148 w1492689564
+R1
+R21
+R3
+R4
+R5
+Z149 8C:/Users/ali izadi/Desktop/final_cache/two's_complement.vhd
+Z150 FC:/Users/ali izadi/Desktop/final_cache/two's_complement.vhd
+l0
+L6
+V;XfzSaBoR_NcC:3EXk8WE1
+R8
+32
+Z151 !s108 1499707116.442000
+Z152 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/two's_complement.vhd|
+Z153 !s107 C:/Users/ali izadi/Desktop/final_cache/two's_complement.vhd|
+R12
+R13
+!s100 ]J4RZ41ECAR3Y]dW69:A63
+!i10b 1
+Artl
+R1
+R21
+R3
+R4
+DEx4 work 14 twoscomplement 0 22 ;XfzSaBoR_NcC:3EXk8WE1
+l14
+L12
+VLJJJVQi>^PKYR[BCGHS4e1
+R8
+32
+R151
+R152
+R153
+R12
+R13
+!s100 RaXTk_PFLa7IiCRZW:f>?0
+!i10b 1
+Ewindowpointer
+Z154 w1492536966
+R1
+R2
+R3
+R4
+R5
+Z155 8C:/Users/ali izadi/Desktop/final_cache/window_pointer.vhd
+Z156 FC:/Users/ali izadi/Desktop/final_cache/window_pointer.vhd
+l0
+L5
+V=0iLFYY8Qj_Z_O[^:eLnb1
+R8
+32
+Z157 !s108 1499707116.685000
+Z158 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/window_pointer.vhd|
+Z159 !s107 C:/Users/ali izadi/Desktop/final_cache/window_pointer.vhd|
+R12
+R13
+!s100 n^c;=dC=E2ZPJLniRYnj32
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 13 windowpointer 0 22 =0iLFYY8Qj_Z_O[^:eLnb1
+32
+l16
+L12
+ViI0joW]>`18Ei:9mI<f3c0
+R8
+R157
+R158
+R159
+R12
+R13
+!s100 W0l=08X<MgELPgl_`mU>i0
+!i10b 1
+Exorr
+Z160 w1492688820
+R3
+R4
+R5
+Z161 8C:/Users/ali izadi/Desktop/final_cache/xor.vhd
+Z162 FC:/Users/ali izadi/Desktop/final_cache/xor.vhd
+l0
+L4
+VD6c^LGbBL_zT54j]n3PE23
+R8
+32
+Z163 !s108 1499707116.918000
+Z164 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/final_cache/xor.vhd|
+Z165 !s107 C:/Users/ali izadi/Desktop/final_cache/xor.vhd|
+R12
+R13
+!s100 0IL^Azh@5YOgOKC;dZRdL3
+!i10b 1
+Artl
+R3
+R4
+DEx4 work 4 xorr 0 22 D6c^LGbBL_zT54j]n3PE23
+l13
+L11
+VZIc^F7UN5imAQ`U5V``^j2
+R8
+32
+R163
+R164
+R165
+R12
+R13
+!s100 G=^MBdWZ5RZLSlDoSC`bX3
+!i10b 1
